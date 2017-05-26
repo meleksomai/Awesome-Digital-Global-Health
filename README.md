@@ -34,7 +34,7 @@ A curated list of awesome Digital Global Health software, resources, and courses
 
 ### Books
 
-* [Global Health Informatics](https://mitpress.mit.edu/books/global-health-informatics) - Principles of eHealth and mHealth to Improve Quality of Care
+* [Global Health Informatics](https://mitpress.mit.edu/books/global-health-informatics) - Principles of eHealth and mHealth to Improve Quality of Care.
 
 ### Courses
 
@@ -44,5 +44,5 @@ A curated list of awesome Digital Global Health software, resources, and courses
 
 #### Evaluation and Monitoring
 
-* [WHO Monitoring and evaluating digital health interventions](http://www.who.int/reproductivehealth/publications/mhealth/digital-health-interventions/en/) - A practical guide to conducting research and assessment
-* [Process evaluation of complex interventions: Medical Research Council guidance](http://www.bmj.com/content/350/bmj.h1258) - MRC framework for conducting and reporting process evaluation studies
+* [WHO Monitoring and evaluating digital health interventions](http://www.who.int/reproductivehealth/publications/mhealth/digital-health-interventions/en/) - A practical guide to conducting research and assessment.
+* [Process evaluation of complex interventions: Medical Research Council guidance](http://www.bmj.com/content/350/bmj.h1258) - MRC framework for conducting and reporting process evaluation studies.

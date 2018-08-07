@@ -6,9 +6,10 @@ A curated list of awesome Digital Global Health software, resources, and courses
 
 ## Table of Contents
 
-- [Electronic Health Records (EHR)](#electronic-health-records)
-- [Mobile Health (mHealth)](#mHealth)
+- [Electronic Health Records](#electronic-health-records)
+- [mHealth](#mhealth)
 - [Analytics](#analytics)
+- [SMS Platforms](#sms-platforms)
 - [Books](#books)
 - [Courses](#courses)
 - [Papers](#papers)
@@ -31,6 +32,12 @@ A curated list of awesome Digital Global Health software, resources, and courses
 ### Analytics
 
 * [DHIS 2](https://github.com/dhis2/dhis2-core) - Flexible, web-based open-source information system with awesome visualization features including GIS, charts and pivot tables.
+
+### SMS Platforms
+
+* [RapidPro](https://github.com/rapidsms/rapidsms) - An open source platform that allows anyone to build interactive messaging systems using an easy visual interface.
+* [RapidSMS](https://github.com/rapidsms/rapidsms) - Flexible platform and modular components for building mobile services for large-scale data collection, managing complex workflows, and automating data analysis.
+* [SMSSync](https://github.com/ushahidi/SMSSync) -  A simple, yet powerful SMS to HTTP sync utility that turns any Android phone into a local SMS gateway by sending incoming messages(SMS) to a configured URL (web service).
 
 ### Books
 
